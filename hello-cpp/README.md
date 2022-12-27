@@ -16,4 +16,4 @@ python3 -m http.server 4444
 
 Then open http://{ip}:4444/hello-cpp.html in browser.
 
-"Hello from C++!" should be shown in lower half of the screen, and console tab.
+"Hello from C++!" should be shown in lower half of the screen, and browser console tab.
